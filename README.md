@@ -1,5 +1,6 @@
 👋 **Hi everyone, I’m @mailanh and nice to meet you.**
-- I'm a software engineer.
+- 💌 I'm a software engineer.
+- 🌱 I'm available freelancer
 - You can visit my site here: https://mailanh.github.io/my-profile/
 
 🏩 **I'm currently working as a Software Engineering with these skills below:**
